@@ -1,0 +1,196 @@
+
+Inicializando o Banco de Dados...                          [ok]
+Carregando o mapa do sistema viario...                     [ok]
+Atualizando o mapa do sistema viario.........              [ok]
+Inicializando servidora de cliente...                      [ok]
+Inicializando escalonadores de tarefas...                  [ok]
+
+Rotas(L) - versao 0.1b
+
+== Menu Principal ==
+
+(1) Cadastrar Cliente
+(2) Excluir Cliente
+(3) Pesquisar por Clientes
+(4) Pesquisar rotas de Clientes
+(5) Gerar Relatorio de Clientes
+(6) Imprimir 2a via de Conta
+(7) Encerrar o sistema Rotas
+
+Digite o numero de uma das opcoes acima:
+> 0
+
+Numero invalido.
+
+Digite o numero de uma das opcoes acima:
+> 1
+
+Digite o nome do Cliente:
+> Joao Costa
+
+Digite o CPF do Cliente:
+> 22233344455
+
+Digite a data de nascimento (DD-MM-AAAA):
+> 12-03-1980
+
+Endereco:
+Digite o nome da rua:
+> Rua Congo
+
+Digite o numero da residencia:
+> 34
+
+Digite o complemento:
+> 
+
+Digite o bairro:
+> Centro
+
+Digite o CEP:
+> 02200232
+
+Digite a cidade:
+> Sao Paulo
+
+Digite o Estado:
+> SP
+
+Digite o telefone:
+>1123454321
+
+Dados digitados:
+
+Nome: Joao Costa 
+CPF: 22233344455
+Data Nasc: 12-03-1980
+Endereco:
+Rua: Congo, Numero: 34, Complemento:
+Bairro: Centro, CEP: 02200232
+Cidade: Sao Paulo, Estado: SP
+Telefone: (11) 2345-4321
+
+Confirmar dados? (S/N)
+> S
+
+== Menu Principal ==
+
+(1) Cadastrar Cliente
+(2) Excluir Cliente
+(3) Pesquisar por Clientes
+(4) Pesquisar rotas de Clientes
+(5) Gerar Relatorio de Clientes
+(6) Imprimir 2a via de Conta
+(7) Encerrar o sistema Rotas
+
+Digite o numero de uma das opcoes acima:
+> 5
+
+Digite uma CPF valido (deixe em branco para pesquisar por nome):
+>
+
+Digite uma palavra-chave de nome:
+> Joao
+
+Digite uma palvra-chave de idade:
+>
+
+Digite algum atributo de endereco:
+>
+
+Gerando relatorio de clientes com a(s) palavra-chave(s) 'Joao':
+
+Ocorrencias encontradas: (1)
+
+Nome: Joao Costa 
+CPF: 22233344455
+Data Nasc: 12-03-1980
+--
+Rotas tomadas (1)
+--
+Listando 1 de 1:
+Rota #: 00789, de 15:37:21 de 10-jan-2009.
+Origem: "rua Fradique Coutinho, 500 - Pinheiros".
+Destino: "rua Joaquim Antunes, 710 - Pinheiros".
+Vias utilizadas:
+"Teodoro Sampaio, 301-500", as 15:37:21 de 10-jan-2009.
+"Teodoro Sampaio, 501-700", as 15:39:45 de 10-jan-2009.
+"Teodoro Sampaio, 701-800", as 15:40:38 de 10-jan-2009.
+"Joaquim Antunes, 922-711", as 15:41:31 de 10-jan-2009.
+"Joaquim Antunes, 770-609", as 15:43:10 de 10-jan-2009.
+--
+Total: 5 consultas ao sistema.
+
+== Menu Principal ==
+
+(1) Cadastrar Cliente
+(2) Excluir Cliente
+(3) Pesquisar por Clientes
+(4) Pesquisar rotas de Clientes
+(5) Gerar Relatorio de Clientes
+(6) Imprimir 2a via de Conta
+(7) Encerrar o sistema Rotas
+
+Digite o numero de uma das opcoes acima:
+> 6
+
+Digite uma CPF valido (deixe em branco para pesquisar por nome):
+>
+
+Digite uma palavra-chave de nome:
+> Costa
+
+Digite uma palvra-chave de idade:
+>
+
+Digite algum atributo de endereco:
+>
+
+Gerando relatorio de clientes com a(s) palavra-chave(s) 'Joao':
+
+Ocorrencias encontradas: (1)
+
+Nome: Joao Costa
+CPF: 22233344455
+Data Nasc: 12-03-1980
+--
+Rotas tomadas (1)
+--
+Listando 1 de 1:
+Rota #: 00789, de 15:37:21 de 10-jan-2009.
+Origem: "rua Fradique Coutinho, 500 - Pinheiros".
+Destino: "rua Joaquim Antunes, 710 - Pinheiros".
+--
+Total: 5 consultas ao sistema.
+Preco por consulta: R$0.40.
+Subtotal: R$2.00
+Taxa de servico: R$10.00.
+ICMS: R$2.50 + R$5.00 = R$7.50
+IOF: R$2.00.
+Outros: R$2.50
+TOTAL: R$24.00
+--
+
+== Menu Principal ==
+
+(1) Cadastrar Cliente
+(2) Excluir Cliente
+(3) Pesquisar por Clientes
+(4) Pesquisar rotas de Clientes
+(5) Gerar Relatorio de Clientes
+(6) Imprimir 2a via de Conta
+(7) Encerrar o sistema Rotas
+
+Digite o numero de uma das opcoes acima:
+> 7
+
+Deseja mesmo encerrar o sistema Rotas? (S/N)
+> S
+
+Encerrando servidora de cliente.................           [ok]
+Destruindo escalonadores de tarefas................        [ok]
+Destruindo mapa do sistema viario...                       [ok]
+Encerrando Banco de Dados...                               [ok]
+Encerrando o sistema Rotas...                              [ok]
+
+Ate a proxima!

@@ -1,0 +1,65 @@
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+
+
+<title>Central Rotas - Cadastrar um novo cliente</title>
+</head><body>
+
+<form action="/cgi-bin/rotas/cadastrar.pl" method="POST">
+
+<hr>
+
+<center><img src="logo_rotas.png" width="220" height="110"/></center>
+
+<hr>
+
+<h3>Central Rotas - Cadastrar um novo cliente</h3>
+
+
+<br>
+
+Preencha os campos abaixo e clique em 'Enviar':
+
+<br><br>
+
+<ul>
+
+	<li> Nome: <input type="text" name="nome" size="30" maxlength="30" />&nbsp;&nbsp;
+	     CPF: <input type="text" name="CPF" size="11" maxlength="11" /> (somente n&uacute;meros)</li> 
+<br>
+	<li> Rua: <input type="text" name="rua" size="20" maxlength="20" />&nbsp;&nbsp;
+	     N&uacute;mero: <input type="text" name="numero" size="6" maxlength="6" /></li>
+<br>
+        <li> Complemento: <input type="text" name="complemento" size="20" maxlength="20" />&nbsp;&nbsp;
+             Bairro: <input type="text" name="bairro" size="20" maxlength="20" /></li>
+<br>
+        <li> Cidade: <input type="text" name="cidade" size="20" maxlength="20" value="S&atilde;o Paulo" />&nbsp;&nbsp;
+	<select name="estado">
+	<option value="ES">ES</option>
+	<option value="MG">MG</option>
+	<option value="RJ">RJ</option>
+	<option value="SP" selected="selected">SP</option>
+	</select></li>
+<br>
+        <li> CEP: <input type="text" name="cep" size="8" maxlength="8" /> (somente n&uacute;meros) &nbsp;&nbsp;
+             Telefone: <input type="text" name="telefone" size="10" maxlength="10" /> (somente n&uacute;meros)</li>
+
+</ul>
+
+<br>
+
+<center><input value="Enviar" type="submit"></center>
+
+</form>
+
+<br>
+
+<hr>
+
+<a href="menu.html">Retornar ao Menu Principal.</a>
+
+<hr>
+
+Rotas(L). Copyleft 2009, M.S.Reis.
+
+</body></html>

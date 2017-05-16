@@ -1,0 +1,337 @@
+<mapa>
+<Via>
+	<nome>Melo Morais</nome>
+	<ni>1</ni>
+	<nf>2</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Melo Morais</nome>
+	<ni>2</ni>
+	<nf>1</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Melo Morais</nome>
+	<ni>2</ni>
+	<nf>3</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Melo Morais</nome>
+	<ni>3</ni>
+	<nf>2</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Melo Morais</nome>
+	<ni>3</ni>
+	<nf>4</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Melo Morais</nome>
+	<ni>4</ni>
+	<nf>3</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Melo Morais</nome>
+	<ni>4</ni>
+	<nf>9</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Melo Morais</nome>
+	<ni>9</ni>
+	<nf>4</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Luciano Gualberto</nome>
+	<ni>10</ni>
+	<nf>11</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Luciano Gualberto</nome>
+	<ni>11</ni>
+	<nf>10</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Luciano Gualberto</nome>
+	<ni>11</ni>
+	<nf>12</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Luciano Gualberto</nome>
+	<ni>12</ni>
+	<nf>11</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Luciano Gualberto</nome>
+	<ni>12</ni>
+	<nf>13</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Luciano Gualberto</nome>
+	<ni>13</ni>
+	<nf>12</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Luciano Gualberto</nome>
+	<ni>13</ni>
+	<nf>14</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Luciano Gualberto</nome>
+	<ni>14</ni>
+	<nf>13</nf>
+	<to>0</to>
+	</Via>
+<Via>
+	<nome>Luciano Gualberto</nome>
+	<ni>14</ni>
+	<nf>15</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Luciano Gualberto</nome>
+	<ni>15</ni>
+	<nf>14</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Universidade</nome>
+	<ni>8</ni>
+	<nf>9</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Universidade</nome>
+	<ni>9</ni><nf>8</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Universidade</nome>
+	<ni>8</ni>
+	<nf>7</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Reitoria</nome>
+	<ni>6</ni>
+	<nf>7</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Reitoria</nome>
+	<ni>7</ni>
+	<nf>4</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Anfiteatro</nome>
+	<ni>3</ni>
+	<nf>6</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Anfiteatro</nome>
+	<ni>6</ni>
+	<nf>14</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Martins Rodrigues</nome>
+	<ni>12</ni>
+	<nf>2</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>J</nome>
+	<ni>5</ni>
+	<nf>13</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>J</nome>
+	<ni>13</ni>
+	<nf>5</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Almeida Prado</nome>
+	<ni>1</ni>
+	<nf>10</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Almeida Prado</nome>
+	<ni>10</ni>
+	<nf>1</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Almeida Prado</nome>
+	<ni>10</ni>
+	<nf>16</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Almeida Prado</nome>
+	<ni>16</ni>
+	<nf>10</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Almeida Prado</nome>
+	<ni>16</ni>
+	<nf>22</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Almeida Prado</nome>
+	<ni>22</ni>
+	<nf>16</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Morais Leme</nome>
+	<ni>22</ni>
+	<nf>23</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Morais Leme</nome>
+	<ni>23</ni>
+	<nf>22</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Lineu Prestes</nome>
+	<ni>8</ni>
+	<nf>15</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Lineu Prestes</nome>
+	<ni>15</ni>
+	<nf>8</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Lineu Prestes</nome>
+	<ni>15</ni>
+	<nf>19</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Lineu Prestes</nome>
+	<ni>19</ni>
+	<nf>15</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Lineu Prestes</nome>
+	<ni>19</ni>
+	<nf>24</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Lineu Prestes</nome>
+	<ni>24</ni>
+	<nf>19</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Lineu Prestes</nome>
+	<ni>23</ni>
+	<nf>24</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Lineu Prestes</nome>
+	<ni>24</ni>
+	<nf>23</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Sem Nome</nome>
+	<ni>24</ni>
+	<nf>25</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Sem Nome</nome>
+	<ni>25</ni>
+	<nf>24</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Matao</nome>
+	<ni>19</ni>
+	<nf>21</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Matao</nome>
+	<ni>21</ni>
+	<nf>18</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Matao</nome>
+	<ni>17</ni>
+	<nf>18</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Matao</nome>
+	<ni>18</ni>
+	<nf>17</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Matao</nome>
+	<ni>16</ni>
+	<nf>17</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Matao</nome>
+	<ni>17</ni>
+	<nf>16</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>Lago</nome>
+	<ni>19</ni>
+	<nf>18</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>V</nome>
+	<ni>17</ni>
+	<nf>11</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>E</nome>
+	<ni>18</ni>
+	<nf>20</nf>
+	<to>0</to>
+</Via>
+<Via>
+	<nome>E</nome>
+	<ni>20</ni>
+	<nf>18</nf>
+	<to>0</to>
+</Via>
+</mapa>

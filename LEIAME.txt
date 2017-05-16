@@ -1,0 +1,30 @@
+
+Rotas(L) - Um servi\c{c}o simples de controle de rotas.
+
+-- Exame de MAC5853 --
+
+Primeiro semestre de 2009.
+
+--
+
+Descri\c{c}\~ao do conte\'udo deste diret\'orio:
+
+/src : c\'odigo-fonte do sistema Rotas.
+
+/docs1 : documenta\c{c}\~ao da primeira fase do exame (projeto).
+
+/docs2: documenta\c{c}\~ao final do sistema (inclui modelos finais, instala\c{c}\~ao e manual do usu\'ario).
+
+enunciado.pdf : enunciado do exame.
+
+LEIAME.txt : este arquivo.
+
+
+--
+
+Para uma descri\c{c}\~ao detalhada do c\'odigo-fonte, leia "Manual.pdf", contido em /docs2.
+
+M.S.Reis, 02.abr.2009.
+
+Rotas(L) - Copyleft 2009; todos os direitos garantidos.
+

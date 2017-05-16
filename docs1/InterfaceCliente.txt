@@ -1,0 +1,71 @@
+
+Inicializando o GPS...                                     [ok]
+Carregando o mapa do sistema viario...                     [ok]
+
+ClienteRotas(L) - versao 0.1b
+
+Voce se encontra em "rua Fradique Coutinho, 500 - Pinheiros".
+
+Digite o nome do bairro de destino:
+> Jabaquara
+
+Digite o nome da rua de destino: 
+> avenida blablabla
+
+Nome de rua invalido.
+
+Digite o nome da rua de destino: 
+> rua Joaquim Antunes
+
+Nao existe 'rua Joaquim Antunes' no bairro 'Jabaquara'!
+
+Digite o nome do bairro de destino:
+> Pinheiros
+
+Digite o nome da rua de destino:
+> rua Joaquim Antunes
+
+Digite o numero da rua de destino: 
+> 100000
+
+Numero de rua invalido.
+
+Digite o numero da rua de destino: 
+> 710
+
+Rota escolhida:
+Origem: "rua Fradique Coutinho, 500 - Pinheiros".
+Destino: "rua Joaquim Antunes, 710 - Pinheiros".
+
+Confirma a rota? (S/N)
+> S
+
+Consultando a central Rotas...                             [ok]
+
+Tome a "Teodoro Sampaio", do numero 301 ao 500.
+
+Consultando a central Rotas...                             [ok]
+
+Tome a "Teodoro Sampaio", do numero 501 ao 700.
+
+Consultando a central Rotas...                             [ok]
+
+Tome a "Teodoro Sampaio", do numero 701 ao 800.
+
+Consultando a central Rotas...                             [ok]
+
+Tome a "Joaquim Antunes", do numero 922 ao 771.
+
+Consultando a central Rotas...                             [ok]
+
+Tome a "Joaquim Antunes", do numero 770 ao 609.
+
+Rota finalizada! 
+Voce se encontra em "rua Joaquim Antunes, 732 - Pinheiros".
+
+Deseja iniciar uma nova rota? (S/N)
+> N
+
+Encerrando o sistema Rotas...                               [ok]
+
+Ate a proxima!
